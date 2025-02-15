@@ -7,7 +7,7 @@
 		list-style: none ;
 }
 .container ul li{
-	display: inline;
+	display: flex;
 	margin-right: 1rem;
 }
 
